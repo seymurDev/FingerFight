@@ -1,1 +1,4 @@
-# FingerFight
+#fingerfight
+
+RED COLOR CODE---#FE0000
+BLUE COLOR CODE---#01B7FF
